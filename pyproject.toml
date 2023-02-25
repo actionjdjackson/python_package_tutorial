@@ -18,5 +18,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/actionjdjackson/palindrome"
-"Bug Tracker" = "https://github.com/actionjdjackson/palindrome/issues"
+"Homepage" = "https://github.com/actionjdjackson/python_package_tutorial"
+"Bug Tracker" = "https://github.com/actionjdjackson/python_package_tutorial/issues"
