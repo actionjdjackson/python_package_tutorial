@@ -4,11 +4,11 @@ build-backend = "hatchling.build"
 
 [project]
 name = "palindrome_actionjdjackson"
-version = "0.0.1"
+version = "0.1.0"
 authors = [
   { name="Jacob Jackson", email="jacobjackson1985@gmail.com" },
 ]
-description = "A small example package"
+description = "A palindrome detection module"
 readme = "README.md"
 requires-python = ">=3.7"
 classifiers = [
