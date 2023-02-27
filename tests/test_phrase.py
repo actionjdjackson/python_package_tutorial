@@ -22,3 +22,9 @@ def test_integer_non_palindrome():
 
 def test_integer_palindrome():
     assert Phrase(12321).ispalindrome()
+
+def test_empty_string_non_palindrome():
+    assert not Phrase("").ispalindrome()
+
+def test_whitespace_non_palindrome():
+    assert not Phrase("     \t\t\t\n\n  ").ispalindrome()
